@@ -2,7 +2,7 @@
 Built a tool to estimate salaries based on glassdoor job posting (MAE ~ 14K)
 Performed data cleaning, Exploratory Data Analysis and Model Building as part of the project.
 
-#Web Scraping and dataset used from 2020
+#Web Scraping and dataset used is from 2020
 
 Web Scraping code: https://github.com/arapfaik/scraping-glassdoor-selenium
 
