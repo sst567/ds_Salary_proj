@@ -1,5 +1,5 @@
 # Salary Estimator
-Built a tool to estimate salaries based on glassdoor job posting (MAE ~ 17K)
+Built a tool to estimate salaries based on glassdoor job posting (MAE ~ 14K)
 Performed data cleaning, Exploratory Data Analysis and Model Building as part of the project.
 
 #Web Scraping and dataset used is from 2020
@@ -26,6 +26,6 @@ Analyzed the number of job postings based on sector, type of company, location, 
 Transformed categorical variables to dummy variables. Split the data into 80:20 ratio (Train:Test).
 Verified using 3 different models, liner regression, lasso regression and Random Forest. 
 
-Random forest outperformed the other 2 models with an MAE of approximately 17.
+Random forest outperformed the other 2 models with an MAE of approximately 14.
 
 #Finally converted the model to a pickle file which could be integrated with an API such as Flask in the future.
