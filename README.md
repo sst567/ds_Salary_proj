@@ -29,3 +29,6 @@ Verified using 3 different models, liner regression, lasso regression and Random
 Random forest outperformed the other 2 models with an MAE of approximately 14.
 
 #Finally converted the model to a pickle file which could be integrated with an API such as Flask in the future.
+
+Language: Python
+Libraries Used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
