@@ -7,6 +7,7 @@ Performed data cleaning, Exploratory Data Analysis and Model Building as part of
 Web Scraping code: https://github.com/arapfaik/scraping-glassdoor-selenium
 
 #Data Cleaning
+
 As part of Data Cleaning removed rows which didn't contain salary.
 Added a column to identify if job posting was at the same location as the company headquarters.
 Made columns for skillsets based on job description including (Python, SQL, AWS, R Studio, Excel)
@@ -16,6 +17,7 @@ Modified company text to not contain rating.
 Column to check description length
 
 #EDA -- Exploratory Data Analysis
+
 Explored how job title, seniority, skills, location etc.. had an influence on the salary. 
 Analyzed the number of job postings based on sector, type of company, location, rating, skill type.
 
