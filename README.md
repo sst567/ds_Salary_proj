@@ -20,6 +20,7 @@ Column to check description length
 
 Explored how job title, seniority, skills, location etc.. had an influence on the salary. 
 Analyzed the number of job postings based on sector, type of company, location, rating, skill type.
+https://github.com/sst567/ds_Salary_proj/blob/master/EDA.html
 
 #Model Building
 
